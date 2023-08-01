@@ -1,0 +1,45 @@
+body {
+    padding: 40px;
+    background: whitesmoke;
+    text-align: center;
+     margin: 0;
+    /* padding: 0; */
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    /* background: linear-gradient(white, gray); */
+    height: 100vh;
+    color: #e98a1d;
+}
+
+#apple-shelf {
+    background: lightcoral;
+    border-radius: 10px;
+    height: 30px;
+    margin: 10px 0;
+}
+
+#orange-shelf {
+    background: lightsalmon;
+    border-radius: 10px;
+    height: 30px;
+}
+
+#box{
+    border: 2px solid #e98a1d;
+    border-radius: 10px;
+    border-top: none;
+}
+
+button{
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    font-family: 'Permanent Marker', cursive;
+    }
+    
+button:hover{
+    box-shadow: 2px 2px 8px 4px #888888;
+}
